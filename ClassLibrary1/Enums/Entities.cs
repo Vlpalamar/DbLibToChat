@@ -2,7 +2,7 @@
 {
     public enum Entities
     {
-        None, User, Message
+        None, User, UserMessage
 
     }
 }

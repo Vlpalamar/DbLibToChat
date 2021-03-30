@@ -2,6 +2,6 @@
 {
     public enum Commands
     {
-        None, UserLogin, Create, Read, Update, Delete, UserBye,SendMessage
+        None, UserLogin, Create, Read, Update, Delete, UserBye,SendMessageToAll
     }
 }

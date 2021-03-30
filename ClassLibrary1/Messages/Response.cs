@@ -10,6 +10,7 @@ namespace ClassLibrary1.Messages
     {
         public bool success { get; set; }
         public Enums.ResponseCodes code { get; set; }
+        public Enums.Entities  Entity{ get; set; }
         public string msg { get; set; }
         public object data { get; set; }
     }
