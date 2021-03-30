@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gc/1j+diYi6VSH+K9Udxp5HgKZedONX/8dTMYMs7dsCoPmIJWDDAwO90OkiGFY/7XRxCF1GSARJE5x7dRJIC6w==",
+  "success": true,
+  "projectFilePath": "D:\\visual studio\\ClassLibrary1\\DbLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
