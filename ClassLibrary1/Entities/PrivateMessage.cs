@@ -3,10 +3,12 @@
 namespace ClassLibrary1.Entities
 {
     [Serializable]
-    public class UserMessage
-    {
+    public class PrivateMessage
+    { 
         public string message;
         public User UserFrom;
-        public  DateTime Date= DateTime.Now;
+        public User UserTo;
+        public DateTime Date = DateTime.Now;
+        
     }
 }
